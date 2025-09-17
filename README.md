@@ -1,8 +1,8 @@
-# 👋 Hi, I'm GoodTheBest
+# 👋 Hi, I'm GoodTheBest, your remote programmer and IT expert.
 
 ## 🧠 What I Do
-Linux server management | Blockchain node ops | Mining pool architecture  
-Helping miners and developers deploy scalable, reproducible infrastructure.
+### Linux server management | Blockchain node ops | Mining pool architecture  
+### Helping miners and developers deploy scalable, reproducible infrastructure.
 
 ## 🛠️ Tech Toolbox
 ![Linux](https://skillicons.dev/icons?i=linux)
