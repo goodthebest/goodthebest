@@ -1,5 +1,5 @@
 # 👋 Hi, I'm GoodTheBest
-##   Your Remote Full-Stack Programmer and IT expert
+##   Your Remote Full-Stack Programmer & Blockchain Technology and IT Expert
 
 ## 🧠 What I Do
 - Helping Individual Miners & Small & Medium Level GPUs/ASICs machine Owners and Mining Farms to Deploy Performamce Hardened, Scalable Mining Pools for all mineable algos and coins including Bitcoin and altcoins.
@@ -7,6 +7,8 @@
 - Database solutions for PostgreSQL, MySQL, MariaDB, SQLite, MSSQL, and Oracle etc.
 - Build Websites, Custom Online Applications 
 - Develop Softwre & Applications and Fix bugs in Existing Software/Applications, add new features
+C/C++, C#, Python, Java, Go, Rust, COBOL, R, Solidity, TypeScript, Swift, Kotlin, Ruby, PHP, Dart, Haskell, Julia, Bash, Perl, Scala, Lua, Vyper, Assembly, Fortran, Elixir, F#, Zig, OCaml, Scheme, Lisp, Prolog, Ada, Tcl, Groovy, Awk, Sed, PowerShell, Move, MATLAB, SAS.
+
 
 ## 🛠️ Tech Toolbox
 ![Linux](https://skillicons.dev/icons?i=linux)
