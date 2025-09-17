@@ -1,4 +1,5 @@
-# 👋 Hi, I'm GoodTheBest, your remote programmer and IT expert.
+# 👋 Hi, I'm GoodTheBest
+##   Your remote full-stack programmer and IT expert
 
 ## 🧠 What I Do
 ### Linux server management | Blockchain node ops | Mining pool architecture  
