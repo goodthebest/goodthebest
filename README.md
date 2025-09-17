@@ -15,8 +15,8 @@ Helping miners and developers deploy scalable, reproducible infrastructure.
 - 🔧 [Yiimp Setup for Ubuntu](https://github.com/goodthebest/Install-Setup-Yiimp-Mining-Pool-Software-Ubuntu-Linux)  
   One-click setup for Yiimp, Miningcore, and NOMP across Ubuntu 16.04–24.04
 
-- ⚡ [Digibyte SHA256 Pool](https://github.com/goodthebest/setup-digibyte-dgb-algo-sha256-mining-pool)  
-  Multi-algo Digibyte pool with optional ASICBOOST support
+- ⚡ [Bitoin Mining Pool Setup and Installation ](https://github.com/goodthebest/Bitcoin-Mining-Pool-Software-Installation-Setup--BTC-Pool-Building-Services)  
+      Bitcoin mining pool software end-to-end turnkey solution with ASICBOOST support
 
 ## 📬 Connect with Me
 - 📧 Email: contact@trinhminhtriet.com
