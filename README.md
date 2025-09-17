@@ -34,4 +34,4 @@ C/C++, C#, Python, Java, Go, Rust, COBOL, R, Solidity, TypeScript, Swift, Kotlin
 
 ---
 
-> “Elegance is not optional—it’s the only way systems scale.”
+> “Technological freedom to all your technical worries”
