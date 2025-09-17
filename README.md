@@ -19,7 +19,7 @@ C/C++, C#, Python, Java, Go, Rust, COBOL, R, Solidity, TypeScript, Swift, Kotlin
 
 ## 🚀 Featured Services
 - 🔧 [Yiimp Setup for Ubuntu](https://github.com/goodthebest/Install-Setup-Yiimp-Mining-Pool-Software-Ubuntu-Linux)  
-  One-click setup for Yiimp, Miningcore, and NOMP across Ubuntu 16.04–24.04
+  One-click setup for Yiimp, Miningcore, and NOMP across Ubuntu 20.04, 22.04, 24.04
 
 - ⚡ [Bitcoin Mining Pool Setup and Installation](https://github.com/goodthebest/Bitcoin-Mining-Pool-Software-Installation-Setup--BTC-Pool-Building-Services)  
   Bitcoin mining pool software end-to-end turnkey solution with ASICBOOST support
