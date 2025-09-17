@@ -2,8 +2,9 @@
 ##   Your remote full-stack programmer and IT expert
 
 ## 🧠 What I Do
+- Helping Individual Miners & Small & Medium Level ASIC machine Owners and Mining Farms to Deploy Performamce Hardened, Scalable Mining Pools for all mineable algos and coins including Bitcoin and altcoins.
 - Linux Server Management (Ubuntu/Centos,RedHat,  | Blockchain Node ops | Mining Pool Architecture  
-- Helping Miners and Developers Deploy Scalable, Reproducible Infrastructure.
+- Database solutions for PostgreSQL, MySQL, MariaDB, SQLite, MSSQL, and Oracle etc.
 - Build Websites, Custom Online Applications 
 - Develop Softwre & Applications and Fix bugs in Existing Software/Applications, add new features
 
