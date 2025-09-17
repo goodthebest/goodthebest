@@ -1,5 +1,5 @@
 # 👋 Hi, I'm GoodTheBest
-##   Your Remote Full-Stack Programmer & Blockchain Technology and IT Expert
+##   Your Remote Full-Stack Programmer, Blockchain Technology and IT Expert
 
 ## 🧠 What I Do
 - Helping Individual Miners & Small & Medium Level GPUs/ASICs machine Owners and Mining Farms to Deploy Performamce Hardened, Scalable Mining Pools for all mineable algos and coins including Bitcoin and altcoins.
