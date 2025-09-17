@@ -11,7 +11,7 @@ Helping miners and developers deploy scalable, reproducible infrastructure.
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
 ![Markdown](https://skillicons.dev/icons?i=markdown)
 
-## 🚀 Featured Projects
+## 🚀 Featured Services
 - 🔧 [Yiimp Setup for Ubuntu](https://github.com/goodthebest/Install-Setup-Yiimp-Mining-Pool-Software-Ubuntu-Linux)  
   One-click setup for Yiimp, Miningcore, and NOMP across Ubuntu 16.04–24.04
 
