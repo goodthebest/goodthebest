@@ -6,7 +6,7 @@
 - Linux Server Management (Ubuntu/Centos,RedHat,  | Blockchain Node ops | Mining Pool Architecture  
 - Database solutions for PostgreSQL, MySQL, MariaDB, SQLite, MSSQL, and Oracle etc.
 - Build Websites, Custom Online Applications 
-- Develop Softwre & Applications and Fix bugs in Existing Software/Applications, add new features
+- Develop Softwre & Applications and Fix bugs in Existing Software/Applications, add new features and well versed in
 C/C++, C#, Python, Java, Go, Rust, COBOL, R, Solidity, TypeScript, Swift, Kotlin, Ruby, PHP, Dart, Haskell, Julia, Bash, Perl, Scala, Lua, Vyper, Assembly, Fortran, Elixir, F#, Zig, OCaml, Scheme, Lisp, Prolog, Ada, Tcl, Groovy, Awk, Sed, PowerShell, Move, MATLAB, SAS.
 
 
