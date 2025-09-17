@@ -19,8 +19,8 @@ Helping miners and developers deploy scalable, reproducible infrastructure.
       Bitcoin mining pool software end-to-end turnkey solution with ASICBOOST support
 
 ## 📬 Connect with Me
-- 📧 Email: contact@trinhminhtriet.com
-- 💬 Telegram: [@goodthebest](https://t.me/goodthebest)
+- 📧 Email: onlinebuybiz@gmail.com
+- 💬 Telegram: [click to get in touch](https://t.me/goodthebest)
 
 ---
 
