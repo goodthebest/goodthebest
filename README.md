@@ -2,10 +2,10 @@
 ##   Your remote full-stack programmer and IT expert
 
 ## 🧠 What I Do
-### Linux Server Management (Ubuntu/Centos,RedHat,  | Blockchain Node ops | Mining Pool Architecture  
-### Helping Miners and Developers Deploy Scalable, Reproducible Infrastructure.
-### Build Websites, Custom Online Applications 
-### Develop Softwre & Applications and Fix bugs in Existing Software/Applications, add new features
+Linux Server Management (Ubuntu/Centos,RedHat,  | Blockchain Node ops | Mining Pool Architecture  
+Helping Miners and Developers Deploy Scalable, Reproducible Infrastructure.
+Build Websites, Custom Online Applications 
+Develop Softwre & Applications and Fix bugs in Existing Software/Applications, add new features
 
 ## 🛠️ Tech Toolbox
 ![Linux](https://skillicons.dev/icons?i=linux)
