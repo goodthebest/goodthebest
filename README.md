@@ -34,4 +34,4 @@ C/C++, C#, Python, Java, Go, Rust, COBOL, R, Solidity, TypeScript, Swift, Kotlin
 
 ---
 
-> “Technological freedom to all your technical worries”
+> “We’ll liberate you from your tech headaches by giving you the tools, systems, or support to solve them effortlessly.” 
