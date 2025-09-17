@@ -22,8 +22,9 @@ Helping miners and developers deploy scalable, reproducible infrastructure.
   Tailored builds, integrations, and optimizations for open-source software across diverse platforms
 
 ## 📬 Connect with Me
-- 📧 Email: onlinebuybiz@gmail.com
-- 💬 Telegram: [click to get in touch](https://t.me/goodthebest)
+- 📧 Email: onlinebuybiz@gmail.com  
+- 💬 Telegram: [click to get in touch](https://t.me/goodthebest)  
+- 💻 Discord: **goodthebest**
 
 ---
 
