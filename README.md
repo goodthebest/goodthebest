@@ -1,5 +1,5 @@
 # 👋 Hi, I'm GoodTheBest
-## Full-Stack Programmer, Blockchain & IT Expert — available for hire worldwide
+## Full-Stack Programmer, Artificial Intellgenence/LLM/Automation, Blockchain & IT Expert — available for hire worldwide
 
 I design, build, and support web apps, cloud/SaaS backends, databases, AI automations, and crypto mining infrastructure.  
 Work is delivered **remotely/online**, and I collaborate with clients **worldwide** (international projects welcome).
