@@ -1,14 +1,17 @@
 # 👋 Hi, I'm GoodTheBest
-##   Your Remote Full-Stack Programmer, Blockchain Technology and IT Expert
+## Full-Stack Programmer, Blockchain & IT Expert — available for hire worldwide
+
+I design, build, and support web apps, cloud/SaaS backends, databases, and crypto mining infrastructure.  
+Work is delivered **remotely/online**, and I collaborate with clients **worldwide** (international projects welcome).
 
 ## 🧠 What I Do
-- Helping Individual Miners & Small & Medium Level GPUs/ASICs machine Owners and Mining Farms to Deploy Performamce Hardened, Scalable Mining Pools for all mineable algos and coins including Bitcoin and altcoins.
-- Linux Server Management (Ubuntu/Centos,RedHat,  | Blockchain Node ops | Mining Pool Architecture  
-- Database solutions for PostgreSQL, MySQL, MariaDB, SQLite, MSSQL, and Oracle etc.
-- Build Websites, Custom Online Applications 
-- Develop Softwre & Applications and Fix bugs in Existing Software/Applications, add new features and well versed in
-C/C++, C#, Python, Java, Go, Rust, COBOL, R, Solidity, TypeScript, Swift, Kotlin, Ruby, PHP, Dart, Haskell, Julia, Bash, Perl, Scala, Lua, Vyper, Assembly, Fortran, Elixir, F#, Zig, OCaml, Scheme, Lisp, Prolog, Ada, Tcl, Groovy, Awk, Sed, PowerShell, Move, MATLAB, SAS.
-
+- Help individual miners and small/medium GPU/ASIC owners and mining farms **deploy performance-hardened, scalable mining pools** for all mineable algorithms and coins, including **Bitcoin and altcoins**.
+- **Linux server management** (Ubuntu, CentOS, Red Hat) · **Blockchain node ops** · **Mining pool architecture** — secure access and clear handover.
+- **Cloud & SaaS backends** — design and build APIs, microservices, and multi-tenant apps on **AWS / GCP / Azure** with CI/CD, Docker/Kubernetes, monitoring, and logging.
+- **Database solutions** for PostgreSQL, MySQL, MariaDB, SQLite, MS SQL Server, and Oracle.
+- **Websites & custom applications** (full-stack), plus integrations and automation.
+- **Software development & maintenance** — new features, bug fixes, and refactors across:
+  C/C++, C#, Python, Java, Go, Rust, COBOL, R, Solidity, TypeScript, Swift, Kotlin, Ruby, PHP, Dart, Haskell, Julia, Bash, Perl, Scala, Lua, Vyper, Assembly, Fortran, Elixir, F#, Zig, OCaml, Scheme, Lisp, Prolog, Ada, Tcl, Groovy, Awk, Sed, PowerShell, Move, MATLAB, SAS.
 
 ## 🛠️ Tech Toolbox
 ![Linux](https://skillicons.dev/icons?i=linux)
@@ -16,22 +19,30 @@ C/C++, C#, Python, Java, Go, Rust, COBOL, R, Solidity, TypeScript, Swift, Kotlin
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
 ![Markdown](https://skillicons.dev/icons?i=markdown)
+![AWS](https://skillicons.dev/icons?i=aws)
+![GCP](https://skillicons.dev/icons?i=gcp)
+![Azure](https://skillicons.dev/icons?i=azure)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
 
 ## 🚀 Featured Services
-- 🔧 [Yiimp Based Multi Algo, Multi Altcoins Mining Pool Setup](https://github.com/goodthebest/Install-Setup-Yiimp-Mining-Pool-Software-Ubuntu-Linux)  
-  One-click setup for Yiimp, Miningcore, and NOMP across Ubuntu 20.04, 22.04, 24.04
+- 🔧 [Yiimp-Based Multi-Algo, Multi-Altcoin Mining Pool Setup](https://github.com/goodthebest/Install-Setup-Yiimp-Mining-Pool-Software-Ubuntu-Linux)  
+  Setup for Yiimp, Miningcore, and NOMP on Ubuntu 20.04 / 22.04 / 24.04 — delivered online with documentation.
 
 - ⚡ [Bitcoin Mining Pool Setup and Installation](https://github.com/goodthebest/Bitcoin-Mining-Pool-Software-Installation-Setup--BTC-Pool-Building-Services)  
-  Bitcoin mining pool software end-to-end turnkey solution with ASICBOOST support
+  Turnkey Bitcoin mining pool deployment with ASICBOOST support — available to clients worldwide.
 
 - 🧩 [Open Source Software Building & Customization](https://github.com/goodthebest/Open-Source-Software-Building-Customization-Services/tree/main)  
-  Tailored builds, integrations, and optimizations for open-source software across diverse platforms
+  Tailored builds, integrations, and performance tuning across platforms.
+
+- ☁️ **Cloud & SaaS Development**  
+  SaaS backends, APIs, microservices, and multi-tenant features with CI/CD and observability.
 
 ## 📬 Connect with Me
+**Available for hire** (remote/online). International work welcome.  
 - 📧 Email: onlinebuybiz@gmail.com  
 - 💬 Telegram: [click to get in touch](https://t.me/goodthebest)  
 - 💻 Discord: **goodthebest**
 
 ---
 
-> “We’ll liberate you from your tech headaches by giving you the tools, systems, or support to solve them effortlessly.” 
+> “We’ll liberate you from your tech headaches by giving you the tools, systems, or support to solve them effortlessly.”
