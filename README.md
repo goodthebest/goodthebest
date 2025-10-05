@@ -1,5 +1,5 @@
 # 👋 Hi, I'm GoodTheBest
-## Full-Stack Programmer, Blockchain & IT Expert — available for hire
+## Full-Stack Programmer, Blockchain & IT Expert — available for hire worldwide
 
 I design, build, and support web apps, cloud/SaaS backends, databases, AI automations, and crypto mining infrastructure.  
 Work is delivered **remotely/online**, and I collaborate with clients **worldwide** (international projects welcome).
@@ -8,7 +8,7 @@ Work is delivered **remotely/online**, and I collaborate with clients **worldwid
 - Help individual miners and small/medium GPU/ASIC owners and mining farms **deploy performance-hardened, scalable mining pools** for all mineable algorithms and coins, including **Bitcoin and altcoins**.
 - **Linux server management** (Ubuntu, CentOS, Red Hat) · **Blockchain node ops** · **Mining pool architecture** — secure access and clear handover.
 - **Cloud & SaaS backends** — design and build APIs, microservices, and multi-tenant apps on **AWS / GCP / Azure** with CI/CD, Docker/Kubernetes, monitoring, and logging.
-- **AI & automation** — conversational assistants, document parsing/summarization, search over private docs (RAG), workflow automation, and model/API integration (OpenAI, Hugging Face) with secure deployment on your cloud.
+- **AI & LLM solutions** — assistants and workflow automation; **training / fine-tuning** (SFT, LoRA), **embeddings & RAG**, evaluation and safety/guardrails; **deployment/serving** on your cloud (OpenAI, Anthropic, **Llama 3**, **Mistral**, vLLM/TGI) with cost/performance tuning and monitoring.
 - **Database solutions** for PostgreSQL, MySQL, MariaDB, SQLite, MS SQL Server, and Oracle.
 - **Websites & custom applications** (full-stack), plus integrations and automation.
 - **Software development & maintenance** — new features, bug fixes, and refactors across:
@@ -20,6 +20,9 @@ Work is delivered **remotely/online**, and I collaborate with clients **worldwid
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
 ![Markdown](https://skillicons.dev/icons?i=markdown)
+![Python](https://skillicons.dev/icons?i=python)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![GCP](https://skillicons.dev/icons?i=gcp)
 ![Azure](https://skillicons.dev/icons?i=azure)
@@ -32,8 +35,8 @@ Work is delivered **remotely/online**, and I collaborate with clients **worldwid
 - ⚡ [Bitcoin Mining Pool Setup and Installation](https://github.com/goodthebest/Bitcoin-Mining-Pool-Software-Installation-Setup--BTC-Pool-Building-Services)  
   Turnkey Bitcoin mining pool deployment with ASICBOOST support — available to clients worldwide.
 
-- 🤖 **AI Automation & Assistants**  
-  Custom chatbots, internal knowledge search (RAG), PDF/contract extraction, meeting notes/summaries, and API-driven workflows — designed for your stack and deployed on your cloud.
+- 🤖 **AI & LLM: Training and Private Deployment**  
+  Data prep, fine-tuning (SFT/LoRA), retrieval with vector search, prompt design, and **serving** via vLLM/TGI/FastAPI. Includes evaluation, guardrails, and observability—hosted on your cloud with clear runbooks.
 
 - 🧩 [Open Source Software Building & Customization](https://github.com/goodthebest/Open-Source-Software-Building-Customization-Services/tree/main)  
   Tailored builds, integrations, and performance tuning across platforms.
