@@ -1,14 +1,15 @@
 # 👋 Hi, I'm GoodTheBest
-## Full-Stack Programmer, Artificial Intellgenence/LLM/Automation, Blockchain & IT Expert — available for hire worldwide
+## Full-Stack Programmer, Artificial Intelligence/LLM & Automation, Blockchain & IT Expert — available for hire
 
-I design, build, and support web apps, cloud/SaaS backends, databases, AI automations, and crypto mining infrastructure.  
-Work is delivered **remotely/online**, and I collaborate with clients **worldwide** (international projects welcome).
+I design, build, and support web apps, cloud/SaaS backends, databases, AI/LLM systems, and crypto-mining infrastructure — plus consultancy on architecture, performance, and cost.  
+Delivered remotely/online for clients worldwide (international projects welcome). **Free intro discussion** available.
+
 
 ## 🧠 What I Do
 - Help individual miners and small/medium GPU/ASIC owners and mining farms **deploy performance-hardened, scalable mining pools** for all mineable algorithms and coins, including **Bitcoin and altcoins**.
 - **Linux server management** (Ubuntu, CentOS, Red Hat) · **Blockchain node ops** · **Mining pool architecture** — secure access and clear handover.
 - **Cloud & SaaS backends** — design and build APIs, microservices, and multi-tenant apps on **AWS / GCP / Azure** with CI/CD, Docker/Kubernetes, monitoring, and logging.
-- **AI & LLM solutions** — assistants and workflow automation; **training / fine-tuning** (SFT, LoRA), **embeddings & RAG**, evaluation and safety/guardrails; **deployment/serving** on your cloud (OpenAI, Anthropic, **Llama 3**, **Mistral**, vLLM/TGI) with cost/performance tuning and monitoring.
+- **AI & LLM solutions** — assistants and workflow automation; **training/fine-tuning** (SFT, LoRA), **embeddings & RAG**, evaluation and safety/guardrails; **deployment/serving** on your cloud (OpenAI, Anthropic, **Llama 3**, **Mistral**, vLLM/TGI) with cost/performance tuning and monitoring.
 - **Database solutions** for PostgreSQL, MySQL, MariaDB, SQLite, MS SQL Server, and Oracle.
 - **Websites & custom applications** (full-stack), plus integrations and automation.
 - **Software development & maintenance** — new features, bug fixes, and refactors across:
@@ -38,11 +39,15 @@ Work is delivered **remotely/online**, and I collaborate with clients **worldwid
 - 🤖 **AI & LLM: Training and Private Deployment**  
   Data prep, fine-tuning (SFT/LoRA), retrieval with vector search, prompt design, and **serving** via vLLM/TGI/FastAPI. Includes evaluation, guardrails, and observability—hosted on your cloud with clear runbooks.
 
-- 🧩 [Open Source Software Building & Customization](https://github.com/goodthebest/Open-Source-Software-Building-Customization-Services/tree/main)  
+- 🧩 [Open Source Software Building & Customization](https://github.com/goodthebest/Open-Source-Software-Building-Customization-Services)  
   Tailored builds, integrations, and performance tuning across platforms.
 
 - ☁️ **Cloud & SaaS Development**  
   SaaS backends, APIs, microservices, and multi-tenant features with CI/CD and observability.
+
+- 🤝 **Consulting & Advisory**  
+  Architecture reviews, migration plans, cost/performance tuning for **cloud, AI/LLM, and blockchain**.  
+  **Free intro discussion** to understand your goals and recommend options.
 
 ## 📬 Connect with Me
 **Available for hire** (remote/online). International work welcome.  
