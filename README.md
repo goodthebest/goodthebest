@@ -57,8 +57,6 @@ Delivered remotely/online for clients worldwide (international projects welcome)
 
 - 🤖 [Bots & Webhooks Integration Services (Discord, Telegram, Slack, WhatsApp, Messenger)](https://github.com/goodthebest/Bots-Webhooks-Integration-Services-Discord-Telegram-Slack-Whatsapp-Messenger)  
   Chatbots, notification systems, and workflow automation across major messaging platforms, integrated with your apps, APIs, and trading tools.
-](https://github.com/goodthebest/Install-Setup-Yiimp-Mining-Pool-Software-Ubuntu-Linux)  
-  Setup for Yiimp, Miningcore, and NOMP on Ubuntu 20.04 / 22.04 / 24.04 / 25.01 — delivered online with documentation.
 
 - ⚡ [Bitcoin Mining Pool Setup and Installation](https://github.com/goodthebest/Bitcoin-Mining-Pool-Software-Installation-Setup--BTC-Pool-Building-Services)  
   Turnkey Bitcoin mining pool deployment with ASICBOOST support — available to clients worldwide.
