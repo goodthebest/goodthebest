@@ -30,7 +30,51 @@ Delivered remotely/online for clients worldwide (international projects welcome)
 ![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
 
 ## 🚀 Featured Services
-- 🔧 [Yiimp-Based Multi-Algo, Multi-Altcoin Mining Pool Setup
+- 🔧 [Yiimp-Based Multi-Algo, Multi-Altcoin Mining Pool Setup](https://github.com/goodthebest/Install-Setup-Yiimp-Mining-Pool-Software-Ubuntu-Linux)  
+  Setup for Yiimp, Miningcore, and NOMP on Ubuntu 20.04 / 22.04 / 24.04 / 25.01 — delivered online with documentation.
+
+- ⚡ [Bitcoin Mining Pool Setup and Installation](https://github.com/goodthebest/Bitcoin-Mining-Pool-Software-Installation-Setup--BTC-Pool-Building-Services)  
+  Turnkey Bitcoin mining pool deployment with ASICBOOST support — available to clients worldwide.
+
+- 🤖 **AI & LLM: Training and Private Deployment**  
+  Data prep, fine-tuning (SFT/LoRA), retrieval with vector search, prompt design, and **serving** via vLLM/TGI/FastAPI. Includes evaluation, guardrails, and observability—hosted on your cloud with clear runbooks.
+
+- 🧩 [Open Source Software Building & Customization](https://github.com/goodthebest/Open-Source-Software-Building-Customization-Services)  
+  Tailored builds, integrations, and performance tuning across platforms.
+
+- ☁️ **Cloud & SaaS Development**  
+  SaaS backends, APIs, microservices, and multi-tenant features with CI/CD and observability.
+
+- 🤝 **Consulting & Advisory**  
+  Architecture reviews, migration plans, cost/performance tuning for **cloud, AI/LLM, and blockchain**.  
+  **Free intro discussion** to understand your goals and recommend options.
+
+- 🖥️ [Linux Server, Database & App Deployment Services](https://github.com/goodthebest/Linux-Server-Database-and-App-Deployment-Services)  
+  Production-grade setup and optimization of Linux servers, databases, and applications with secure access, backups, and monitoring.
+
+- 📈 [TradingView Pine Script Indicators & Strategies Services](https://github.com/goodthebest/TradingView-Pine-Script-Indicators-Strategies-Services)  
+  Custom TradingView indicators, alerts, and automated strategies tailored to your trading style and risk profile.
+
+- 🤖 [Bots & Webhooks Integration Services (Discord, Telegram, Slack, WhatsApp, Messenger)](https://github.com/goodthebest/Bots-Webhooks-Integration-Services-Discord-Telegram-Slack-Whatsapp-Messenger)  
+  Chatbots, notification systems, and workflow automation across major messaging platforms, integrated with your apps, APIs, and trading tools.
+](https://github.com/goodthebest/Install-Setup-Yiimp-Mining-Pool-Software-Ubuntu-Linux)  
+  Setup for Yiimp, Miningcore, and NOMP on Ubuntu 20.04 / 22.04 / 24.04 / 25.01 — delivered online with documentation.
+
+- ⚡ [Bitcoin Mining Pool Setup and Installation](https://github.com/goodthebest/Bitcoin-Mining-Pool-Software-Installation-Setup--BTC-Pool-Building-Services)  
+  Turnkey Bitcoin mining pool deployment with ASICBOOST support — available to clients worldwide.
+
+- 🤖 **AI & LLM: Training and Private Deployment**  
+  Data prep, fine-tuning (SFT/LoRA), retrieval with vector search, prompt design, and **serving** via vLLM/TGI/FastAPI. Includes evaluation, guardrails, and observability—hosted on your cloud with clear runbooks.
+
+- 🧩 [Open Source Software Building & Customization](https://github.com/goodthebest/Open-Source-Software-Building-Customization-Services)  
+  Tailored builds, integrations, and performance tuning across platforms.
+
+- ☁️ **Cloud & SaaS Development**  
+  SaaS backends, APIs, microservices, and multi-tenant features with CI/CD and observability.
+
+- 🤝 **Consulting & Advisory**  
+  Architecture reviews, migration plans, cost/performance tuning for **cloud, AI/LLM, and blockchain**.  
+  **Free intro discussion** to understand your goals and recommend options.
 
 ## 📬 Connect with Me
 **Available for hire** (remote/online). International work welcome.  
