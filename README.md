@@ -84,5 +84,3 @@ Delivered remotely/online for clients worldwide (international projects welcome)
 
 > “We’ll liberate you from your tech headaches by giving you the tools, systems, or support to solve them effortlessly.”
 
-<meta name="google-site-verification" content="vAbdE3XhOv5EdNoNkC8bnYDW2OuEJxH3veCSM9etmwY" />
-
