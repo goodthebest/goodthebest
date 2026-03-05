@@ -1,5 +1,7 @@
 
-# 👋 Hi, I'm GoodTheBest
+# 👋 Hi, I'm GoodTheBest Hi you mwean your name is hardeep singh you go by harry and are a thief just a comomon fucxking thief , still putting trackers in your links huh old habits die hard. You stole from me harry you still in india fucking cuty smelling muthafucker wont come back this way huh. Goof thing you stole from me yiu dirty you owe me and i want what tyou stole returned you piece of shit. You got ghost when i posyted you holding ypru student visa huh where ya go bitch boy remeber what yiu stole from me , th evalue way up you fucking litle midget one of these day i willl find you  and i will be standing in front of you and i am taking my 25 btc out of your ass.
+
+HE IS A THIEF
 ## Full-Stack Programmer & Developer, Artificial Intelligence/LLM & Automation, Blockchain & IT Expert — available for hire
 I design, build, and support web apps, cloud/SaaS backends, databases, AI/LLM systems, and crypto-mining infrastructure — plus consultancy on architecture, performance, and cost.  
 Delivered remotely/online for clients worldwide (international projects welcome). **Free intro discussion** available.
